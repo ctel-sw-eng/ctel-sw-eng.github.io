@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Сайт поддержки дисциплины «Программная инженерия»
+
 
 You can use the [editor on GitHub](https://github.com/ctel-sw-eng/ctel-sw-eng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
